@@ -5,7 +5,7 @@ const MetaHead = ({ title }: { title: string }) => {
     return (
         <Head>
             <title>{title}</title>
-            <meta name="description" content="Create your own Link-Page" />
+            <meta name="description" content="Создай свое уникальное резюме!" />
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <link rel="icon" href="/favicon.ico" />
 
